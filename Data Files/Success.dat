@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Login</name>
+   <name>Success</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>d9738e9e-dd60-4923-a6be-e2ae1667fe93</dataFileGUID>
-   <dataSourceUrl></dataSourceUrl>
+   <dataFileGUID>00de3e95-2ec4-4a70-a03a-a9d21e5f1d14</dataFileGUID>
+   <dataSourceUrl>D:\ĐẠI HỌC\HK 2 2023-2024\Kiểm thử phần mền nâng cao\BT\Lab04-Excel\Succes.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName></sheetName>
+   <sheetName>Sheet1</sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>
